@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gina-71253",
+  "private_key_id": "5550d08cb044cc8d28c8c5721f1675759cb34115",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2fVOcnga5KKOJ\n5CZQ68bKbZi9CHGtfZLFTWQa39CXaQOKK4Qob++3hvV1t3FCCsRROMkMqg8boX45\nrqdsCk3z0xiAXCEzUy6pzr8EsMufcWkuZ7a/rwSUKKjlLKgTMAZ7vwpZQSsSTaED\nkoEuY+jefsp/iWVcKJkWhIOasMp7aMx75dJOigJyU2sD5NNClO5knDiQTBzBqQcE\nx1LOzQKfDUl8jxHcAk6WV8g/gu5Wt7f15pqhGcjjFQfkxK5qoXSeiWZy3R3DQ3J9\no8G4sHPFj2BRTd1hdrFUc3UPcdcc/SCc3zuEYif8LKml3ACWU+Fpp0R7D+bDR3Ko\nmkuwcNaDAgMBAAECggEAR9w8I4062oi9NVxpFi5yHl5f6fg8Q3QSaq1aARcnXagV\no8AVD5NckymK2Or+p2H0AoPY76q7vkaunOpAtVOtdJkoqcsdq8dStb1bDO7NkCCp\nqYNfvEWgCPOl5nDaUovz0aDd4129Jzz4bZ6wTeM73PmSpfwltM+r0Oknpa9+XG+y\nkoBYpCO33UerVc5eWjIvL3c9SlQy6/OVQVawAjGpBO3EFthXPA1LX7trioHFSdhi\nFsyIG/4rRsrkL0/pSMM0KADCuK3tc8f+iAl09ZRu9PxBkOCWGt5I9yhdcheSU0p9\nzQDui6KLoZh90pMbxXljTkbanFyEpZIpeZjdM5BSqQKBgQDnGfmzcTSARIwJdhWN\nyLFK1AznXM1yns+H1ITZxOMt/VLve3b0q6aAlk0pqSOuyLRsriDoQeI6mSHqTn6d\nUDZN0bgwY5dTZz2YZ8jn/cLaI/5rlPk0ngH7rEzutv6rrdoxhazhs2hiGQC2Gdkn\nUDLrZppA6aVa9xpIZF7pvFH2hwKBgQDKJpU92+6H+NTlSLYacsqO02zHZlQvgZan\nvcu4NYi0LaOGpa3Xr9zB+iQpBM5VA9px7RHITy8SXH99oN34+Lniv44n+B0HW/Bm\n90W03i3dd+kybO5i6evEwBf04I8jqxVkfIUizjJ94NRTYZ/irpo2dtAtTvFBucHc\nvuqjNi5jJQKBgA9imFAM6kzbw2Lh3J96y+rKYS2J7ReDYReO22VQCTvHkJzm4E17\nm/MVjn+Ghhyduf0+PmyX7kKubSaXITDB5Uua+aMnDiz8Q4qA5kwjhbRWDxsEaO7K\n0iD6IIkH3754LX18g7zm370gIv78i4tleG5Zf01xAJQkvTgyjmsLIX3DAoGBALqQ\niUQh6i7LU5CYXphiQNc4ATi2FBQUATqmS5GitpuzUyw9VAevYooTlbPVn6eOetiR\n9straQIFJBSJltLkmonOSCBTOFdGXsRoiYi3VJUEyc+kAQ6A3PskXfe+F9zPVFr9\nINJSgv7xtIOPocPPaLvDQ7XNGZOTIHveJyaiJoWRAoGBAKVDgtoigoGjEAQ2F//9\nx+Il8R0Jkzw2tnU21+EEOl7sjHNpmbgbFHeMB8tu/10SuYQoE02vvvtp0K0RzVAz\nSKafFAbyfM274yKz8hxP8GR1LVoKXi4ruqqRsWbrhePm8ic7Hto+BYuqvTijI+OE\nt92lApB9sQKKWfeUYgru879h\n-----END PRIVATE KEY-----\n",
+  "client_email": "gina-user@gina-71253.iam.gserviceaccount.com",
+  "client_id": "115130888056114080561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gina-user%40gina-71253.iam.gserviceaccount.com"
+}
